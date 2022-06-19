@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pagemap",
+    "oncran": true
+  },
+  {
+    "package": "r3dmol",
+    "oncran": true
+  }
+]
