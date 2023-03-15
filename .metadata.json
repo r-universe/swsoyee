@@ -1,10 +1,10 @@
 [
   {
-    "package": "pagemap",
+    "package": "r3dmol",
     "oncran": true
   },
   {
-    "package": "r3dmol",
+    "package": "pagemap",
     "oncran": true
   }
 ]

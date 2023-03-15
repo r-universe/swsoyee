@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pagemap"]
-	path = pagemap
-	url = https://github.com/swsoyee/pagemapr
-	shallow = true
-	registered = true
 [submodule "r3dmol"]
 	path = r3dmol
 	url = https://github.com/swsoyee/r3dmol
+	shallow = true
+	registered = true
+[submodule "pagemap"]
+	path = pagemap
+	url = https://github.com/swsoyee/pagemapr
 	shallow = true
 	registered = true
